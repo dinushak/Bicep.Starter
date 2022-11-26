@@ -1,0 +1,9 @@
+{
+    "location": "australiaeast",
+    "subscription": "<subscription>",
+    "resourceGroup": "ProjectName",
+    "resources": {
+        "name": ""
+    },
+    "tags": {}
+}
